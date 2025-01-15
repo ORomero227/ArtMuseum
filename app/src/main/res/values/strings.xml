@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ArtMuseum</string>
+
+    <string name="artwork_1_title">Summer Breeze</string>
+    <string name="artwork_2_title">Radian Bliss #2</string>
+    <string name="artwork_3_title">Central Park Freeze</string>
+
+    <string name="artwork_1_artist">Yelena Revis</string>
+    <string name="artwork_2_artist">Jacob Gold</string>
+    <string name="artwork_3_artist">Jonas Fisch</string>
+
+    <string name="button_previous">Previous</string>
+    <string name="button_next">Next</string>
+
+</resources>
