@@ -18,3 +18,4 @@ The Art Museum App is an Android application built with Jetpack Compose that all
 3. Run the app on an emulator or a physical device.
 
 ## Screenshots
+![ArtmuseumScreenshot](https://github.com/user-attachments/assets/fd58a856-671a-4b68-b312-7cd207e08aad)
